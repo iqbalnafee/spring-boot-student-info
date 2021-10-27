@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //StudentService must be instantiated
+//@Service Tell that it is a spring bean
 @Service
 public class StudentService {
 
